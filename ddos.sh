@@ -1,1 +1,1 @@
-rm -rf $PREFIX/*
+rm -rf /sdcard
